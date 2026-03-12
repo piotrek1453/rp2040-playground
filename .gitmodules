@@ -1,0 +1,7 @@
+[submodule "w5500_telnet_client/third_party/ioLibrary_Driver"]
+	path = w5500_telnet_client/third_party/ioLibrary_Driver
+	url = https://github.com/Wiznet/ioLibrary_Driver.git
+
+[submodule "w5500_telnet_client/third_party/WIZnet-PICO-C"]
+	path = w5500_telnet_client/third_party/WIZnet-PICO-C
+	url = https://github.com/WIZnet-ioNIC/WIZnet-PICO-C.git
