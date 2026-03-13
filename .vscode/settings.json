@@ -1,0 +1,5 @@
+{
+  "raspberry-pi-pico.useCmakeTools": true,
+  "cmake.sourceDirectory": "${workspaceFolder}/w5500_telnet_client",
+  "cmake.buildDirectory": "${workspaceFolder}/w5500_telnet_client/build"
+}
